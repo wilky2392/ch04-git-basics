@@ -1,6 +1,6 @@
 # Chapter 4
 
-Exercises for [chapter 4](https://info201.github.io/git-basics.html).
+Exercises for [chapter 4](https://faculty.washington.edu/otoomet/info201-book/git-basics.html)
 
 * Ex 1: git basics: set up git, fork-clone-edit readme-commit-push
 * Ex 2: play with branches
