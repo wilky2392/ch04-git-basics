@@ -15,5 +15,6 @@ git branch -r  # list all remote branches local repo knows about
 git ls-remote  # directly query all remote branches from remote
 ```
 
-2. Modify this version, by answering the question above ;-)
+2. Modify this readme file by writing the git commands to find out
+   branches (both local and remote) of the current repo!
 
