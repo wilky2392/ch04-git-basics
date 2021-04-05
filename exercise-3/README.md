@@ -1,19 +1,14 @@
 # Exercise 3
 
-Learn the basics of git workflow:
+This exercise introduces git branches.  In git you can split your
+development into different branches, and change some of these, and
+merge the changes back to the others.
 
-1. **Fork** the repo onto your own github account  
-(maybe you already did it)
+1. This exercise comes in two branches: a) master -- this version, and
+   b) complete -- a version with solutions.
+   
+   list all the versions using _git_ and it's command line options.
 
-2. clone it to your laptop  
-`git clone ...`
+2. Modify this readme file by writing the git commands to find out
+   branches (both local and remote) of the current repo!
 
-3. add greetings on top of this file.  Feel free to do more changes!
-
-4. commit your changes:  
-`git commit -am "<explain what did you do>"`
-
-5. send your edits back to GitHub
-`git push`
-
-6. check the repo on your github account.  Did it work?

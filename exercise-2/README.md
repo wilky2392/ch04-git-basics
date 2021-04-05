@@ -1,14 +1,26 @@
 # Exercise 2
 
-This exercise introduces git branches.  In git you can split your
-development into different branches, and change some of these, and
-merge the changes back to the others.
+Learn the basics of git workflow:
 
-1. This exercise comes in two branches: a) master -- this version, and
-   b) complete -- a version with solutions.
+1. **Fork** the repo onto your own github account  
+(maybe you already did it)
+
+2. clone it to your laptop  
+`git clone ...`
+
+3. Download an image from the web and place it into the repo folder
+   into _exercise-2_ subfolder.
    
-   list all the versions using _git_ and it's command line options.
+4. Add this file to _git_.  See [Adding
+   Files](file:///home/otoomet/tyyq/teaching/info201/book/localbook/build/git-basics.html#adding-files). 
+   
+5. Write a paragraph of text where you explaine what the picture is
+   about.  Feel free to add more.
 
-2. Modify this readme file by writing the git commands to find out
-   branches (both local and remote) of the current repo!
+4. commit your changes:  
+`git commit -am "<explain what did you do>"`
 
+5. send your edits back to GitHub
+`git push`
+
+6. check the repo on your github account.  Did it work?
