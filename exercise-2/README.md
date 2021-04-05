@@ -9,5 +9,6 @@ merge the changes back to the others.
    
    list all the versions using _git_ and it's command line options.
 
-2. Modify this version, by answering the question above ;-)
+2. Modify this readme file by writing the git commands to find out
+   branches (both local and remote) of the current repo!
 
